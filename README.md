@@ -1,6 +1,8 @@
 # Afra-Namrata
 
 # HEYY MY NAME IS AFRA NAMRATA
+I'm currently learning GitHub to build my tech and coding skills.
+I hope to use GitHub to help me with my projects, improve my coding, and share my ideas and descriptions with others.
 
 ## 💼 Career Description
 Im passionate about learning new things and exploring different areas. Currently, I'm working on building new skills through an internship with **KKCF**, where I’m learning about **design, coding**, and how to work on real-world projects.
